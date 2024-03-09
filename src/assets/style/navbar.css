@@ -1,0 +1,63 @@
+.nopadding {
+  padding-top: 0 !important;
+  padding-bottom: 0 !important;
+  z-index: 10000;
+}
+
+.search {
+  background-color: #ecf3f8;
+}
+
+.linkedin-icon {
+  color: #0077b5;
+}
+
+.custon-color {
+  color: #333333;
+}
+
+.custom-shadow:hover {
+  box-shadow: 10px black;
+}
+
+.font-aziende {
+  font-size: small;
+}
+
+.offcanvas {
+  margin-top: 61px;
+  position: fixed;
+  z-index: 10000;
+}
+
+.offcanvas-search {
+  width: 25%;
+  margin-left: 100px;
+  border-radius: 2%;
+  position: fixed;
+  z-index: 10001;
+  transition-property: none;
+}
+
+.margin-custom {
+  margin-left: auto !important;
+}
+
+.premium {
+  color: #905908;
+  font-size: small;
+}
+
+.a-custom {
+  text-decoration: none;
+  color: inherit;
+}
+
+.nav-tab {
+  font-size: small;
+  white-space: nowrap;
+}
+
+.custom-drop {
+  margin-bottom: -20000px !important;
+}

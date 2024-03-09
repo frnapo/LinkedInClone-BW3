@@ -1,0 +1,26 @@
+/* notifications.css */
+.notifications-dropdown {
+  position: relative;
+}
+
+.notifications-dropdown-menu {
+  max-height: 300px;
+  overflow-y: auto;
+}
+
+.my-1 {
+  margin-top: 0.25rem;
+  margin-bottom: 0.25rem;
+}
+
+.notifications-text {
+  font-size: small;
+}
+.notifications-text2 {
+  font-size: x-small;
+}
+
+.pointer:hover {
+  background-color: rgba(128, 128, 128, 0.5);
+  cursor: pointer;
+}

@@ -1,0 +1,16 @@
+.sidebarFooter {
+  font-size: 0.8rem;
+}
+
+.sidebarFooter li {
+  padding: 5px 10px;
+}
+
+.sidebarFooter a {
+  text-decoration: none;
+  color: #666666;
+}
+.sidebarFooter a:hover {
+  color: blue;
+  text-decoration: underline;
+}

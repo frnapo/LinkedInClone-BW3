@@ -1,0 +1,15 @@
+.custom-company {
+  margin-top: -16px !important;
+}
+
+.custom-edits-buttons {
+  border-radius: 60%;
+}
+.custom-edits-buttons:hover {
+  border-radius: 60%;
+  background-color: rgba(128, 128, 128, 0.1);
+}
+
+.custom-div {
+  margin-right: -20px !important;
+}

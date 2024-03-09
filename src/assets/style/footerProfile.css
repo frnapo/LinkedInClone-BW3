@@ -1,0 +1,35 @@
+.Footer a {
+  margin-bottom: 0.6rem;
+  font-size: 0.8em;
+  color: #666666;
+  text-decoration: none;
+}
+.Footer a:hover {
+  color: blue;
+  text-decoration: underline;
+}
+.Footer p {
+  margin-bottom: 0;
+}
+.Footer-container {
+  margin-top: 3rem;
+}
+.Footer-container .col {
+  padding-inline: 0.5rem;
+}
+.Footer-ultimo-p {
+  margin-bottom: 0;
+  font-size: 0.9em;
+  padding-inline-start: 0.5em;
+}
+
+@media (max-width: 1200px) {
+  .Footer-option-lato {
+    display: none;
+  }
+}
+@media (min-width: 1200px) {
+  .Footer-option-sotto {
+    display: none;
+  }
+}
